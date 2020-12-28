@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Design 4 screen</string>
+    <string name="prompt_password">password</string>
+    <string name="action_sign_in_short">sign it</string>
+    <string name="prompt_email">login</string>
+</resources>
